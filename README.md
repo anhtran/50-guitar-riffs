@@ -16,7 +16,7 @@
 1. Pink Ployd - [Wish You Were Here](Pink Ployd - Wish You Were Here.txt)
 1. The Strokes - [Life Is Simple In Moonlight](The Strokes - Life Is Simple In Moonlight.txt)
 1. Radiohead - [Karma Police](Radiohead - Karma Police.txt)
-1. Nirvana - Heart Shaped Box
+1. Nirvana - [Heart Shaped Box](Nirvana - Heart Shaped Box.txt)
 1. Led Zeppelin - Stairway to Heaven
 1. White Stripes - Seven Nation Army
 1. Franz Ferdinand - Take Me Out
