@@ -13,54 +13,53 @@
 ## Song List
 
 1. Arctic Monkeys - [A Certain Romance](Arctic Monkeys - A Certain Romance.txt)
-2. Pink Ployd - Wish You Were Here
-3. The Strokes - Life Is Simple In Moonlight
-4. Red Hot Chili Peppers - Scar Tissue
-5. Radiohead - Karma Police
-6. Nirvana - Heart Shaped Box
-7. Led Zeppelin - Stairway to Heaven
-8. White Stripes - Seven Nation Army
-9. Franz Ferdinand - Take Me Out
-10. Chet Atkins - Mr. Sandman 
-11. The Strokes - Automatic Stop
-12. The Cars - Just What I Needed
-13. Metallica - Enter Sandman
-14. Muse - Hysteria
-15. Deep Purple - Smoke On The Water 
-16. Guns N Roses - Sweet Child O Mine 
-17. The Police - Message In A Bottle
-18. AC/DC - Back In Black
-19. The Beatles	- While My Guitar Gently Weeps
-20. The Darkness - I Believe In A Thing Called Love 
-21. Ozzy Osbourne - Crazy Train  
-22. The Strokes - Reptilia
-23. The Strokes - You Only Live Once
-24. The Police - Every Breath You Take
-25. Red Hot Chili Peppers - Under The Bridge
-26. Queen - Love of My Life
-27. Nirvana	Smells Like Teen Spirit
-28. R.E.M. - The One I Love
-29. Radiohead - Creep
-30. Arctic Monkeys - Mardy Bum
-31. The Strokes - Vision Of Division 
-32. The Libertines - Music When The Lights Go Out
-33. Pink Floyd - Breathe
-34. Lynyrd Skynyrd - Sweet Home Alabama
-35. Eric Clapton - Wonderful Tonight
-36. The Rolling Stones - Satisfaction
-37. Eric Johnson - Cliffs Of Dover
-38. Red Hot Chili Peppers - Californication
-39. Chuck Berry - Johnny B Goode
-40. The Velvet Underground - Sunday Morning 
-41. The Doors - Roadhouse Blues
-42. Arctic Monkeys - I Bet You Look Good On The Dancefloor 
-43. The Kooks - Naive
-44. Nirvana - Very Ape
-45. Nirvana - Lithium
-46. The Strokes - Hard To Explain
-47. The Strokes - Under Cover of Darkness
-48. Nirvana - Come As You Are
-49. Nirvana - All Apologies
-50. Dire Straits - Brothers In Arms
-
+1. Pink Ployd - [Wish You Were Here](Pink Ployd - Wish You Were Here.txt)
+1. The Strokes - [Life Is Simple In Moonlight](The Strokes - Life Is Simple In Moonlight.txt)
+1. Radiohead - Karma Police
+1. Nirvana - Heart Shaped Box
+1. Led Zeppelin - Stairway to Heaven
+1. White Stripes - Seven Nation Army
+1. Franz Ferdinand - Take Me Out
+1. Chet Atkins - Mr. Sandman 
+1. The Strokes - Automatic Stop
+1. The Cars - Just What I Needed
+1. Metallica - Enter Sandman
+1. Muse - Hysteria
+1. Deep Purple - Smoke On The Water 
+1. The Strokes - Hard To Explain
+1. Guns N Roses - Sweet Child O Mine 
+1. The Police - Message In A Bottle
+1. Dire Straits - Brothers In Arms
+1. AC/DC - Back In Black
+1. The Beatles	- While My Guitar Gently Weeps
+1. Nirvana - Come As You Are
+1. The Darkness - I Believe In A Thing Called Love 
+1. Ozzy Osbourne - Crazy Train  
+1. The Strokes - Reptilia
+1. Nirvana - Very Ape
+1. The Police - Every Breath You Take
+1. Red Hot Chili Peppers - Under The Bridge
+1. Queen - Love of My Life
+1. Nirvana - Smells Like Teen Spirit
+1. Red Hot Chili Peppers - Scar Tissue
+1. R.E.M. - The One I Love
+1. Radiohead - Creep
+1. Arctic Monkeys - Mardy Bum
+1. The Strokes - Vision Of Division 
+1. The Libertines - Music When The Lights Go Out
+1. Pink Floyd - Breathe
+1. Lynyrd Skynyrd - Sweet Home Alabama
+1. Eric Clapton - Wonderful Tonight
+1. The Rolling Stones - Satisfaction
+1. The Strokes - You Only Live Once
+1. Red Hot Chili Peppers - Californication
+1. Chuck Berry - Johnny B Goode
+1. The Velvet Underground - Sunday Morning 
+1. The Doors - Roadhouse Blues
+1. Arctic Monkeys - I Bet You Look Good On The Dancefloor 
+1. The Kooks - Naive
+1. Nirvana - Lithium
+1. The Strokes - Under Cover of Darkness
+1. Nirvana - All Apologies
+1. Eric Johnson - Cliffs Of Dover
 
