@@ -19,7 +19,7 @@
 1. Nirvana - [Heart Shaped Box](Nirvana - Heart Shaped Box.txt)
 1. Led Zeppelin - [Stairway to Heaven](Led Zeppelin - Stairway to Heaven.txt)
 1. White Stripes - [Seven Nation Army](White Stripes - Seven Nation Army.txt)
-1. Franz Ferdinand - Take Me Out
+1. Franz Ferdinand - [Take Me Out](Franz Ferdinand - Take Me Out.txt)
 1. Chet Atkins - Mr. Sandman 
 1. The Strokes - Automatic Stop
 1. The Cars - Just What I Needed
