@@ -21,7 +21,7 @@
 1. White Stripes - [Seven Nation Army](White Stripes - Seven Nation Army.txt)
 1. Franz Ferdinand - [Take Me Out](Franz Ferdinand - Take Me Out.txt)
 1. Chet Atkins - [Mr. Sandman](Chet Atkins - Mr. Sandman.txt)
-1. The Strokes - Automatic Stop
+1. The Strokes - [Automatic Stop](The Strokes - Automatic Stop.txt)
 1. The Cars - Just What I Needed
 1. Metallica - Enter Sandman
 1. Muse - Hysteria
