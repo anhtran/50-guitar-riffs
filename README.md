@@ -15,7 +15,7 @@
 1. Arctic Monkeys - [A Certain Romance](Arctic Monkeys - A Certain Romance.txt)
 1. Pink Ployd - [Wish You Were Here](Pink Ployd - Wish You Were Here.txt)
 1. The Strokes - [Life Is Simple In Moonlight](The Strokes - Life Is Simple In Moonlight.txt)
-1. Radiohead - Karma Police
+1. Radiohead - [Karma Police](Radiohead - Karma Police.txt)
 1. Nirvana - Heart Shaped Box
 1. Led Zeppelin - Stairway to Heaven
 1. White Stripes - Seven Nation Army
